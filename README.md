@@ -25,7 +25,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img height="20" alt="sqlserver" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png">
 </p>
 
 ### ⚙️ Tools
