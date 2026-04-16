@@ -1,46 +1,53 @@
+<h1 align="center">Hi 👋, I'm Hoa</h1>
+<h3 align="center">🚀 .NET Backend Developer from Vietnam 🇻🇳</h3>
+
 <p align="center">
-  <img width="80%" alt="Hello, I'm Hoa - .NET Developer" src="./assets/gh-readme-header.png" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Developer;ASP.NET+Core+Enthusiast;Clean+Architecture+Lover&center=true&width=500&height=45">
 </p>
-
-<br />
-
-## 👋 Hello, I'm Hoa  
-
-💻 I'm a passionate **.NET Backend Developer** from Vietnam 🇻🇳  
-🚀 Focused on building scalable APIs, clean architecture, and high-performance systems  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧑‍💻 About Me  
 
-### 🚀 Backend  
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="aspnetcore" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
+- 💻 I specialize in **.NET Backend Development**
+- 🚀 Building **RESTful APIs & scalable systems**
+- 🧠 Interested in **Clean Architecture, Microservices**
+- 🔥 Always learning and improving every day  
 
-### 🗄️ Database  
-<code><img height="20" alt="sqlserver" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+---
 
-### ⚙️ Tools & Others  
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+## ⚡ Tech Stack  
+
+### 🚀 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucHoa1805&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucHoa1805&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DucHoa1805&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucHoa1805&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats  
+## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DucHoa1805&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DucHoa1805&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -48,18 +55,19 @@
 ## 🌟 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/DucHoa1805/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucHoa1805&repo=your-repo-1&theme=tokyonight" />
+  <a href="https://github.com/DucHoa1805/your-api-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucHoa1805&repo=your-api-project&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/DucHoa1805/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucHoa1805&repo=your-repo-2&theme=tokyonight" />
+  <a href="https://github.com/DucHoa1805/your-second-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DucHoa1805&repo=your-second-project&theme=tokyonight"/>
   </a>
 </p>
 
 ---
 
-## 📫 Contact  
+## 📫 Connect with me  
 
-<a href="[https://linkedin.com/in/your_linkedin](https://www.linkedin.com/in/duchoa055/)">
-  <img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-</a>
+<p align="center">
+  <a href="https://facebook.com/hoalacmuoiot">Facebook</a> •
+  <a href="#">LinkedIn</a>
+</p>
