@@ -25,7 +25,7 @@
 
 ### 🗄️ Database
 <p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" />
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
 ### ⚙️ Tools
