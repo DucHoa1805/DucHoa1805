@@ -59,5 +59,5 @@
 
 <p align="center">
   <a href="https://facebook.com/hoalacmuoiot">Facebook</a> •
-  <a href="[#](https://www.linkedin.com/in/duchoa055/)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/duchoa055/">LinkedIn</a>
 </p>
