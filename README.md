@@ -60,10 +60,6 @@
 
 ## 📫 Contact  
 
-<a href="https://twitter.com/your_twitter">
-  <img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://linkedin.com/in/your_linkedin">
+<a href="[https://linkedin.com/in/your_linkedin](https://www.linkedin.com/in/duchoa055/)">
   <img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
