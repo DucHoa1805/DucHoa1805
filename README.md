@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Developer;ASP.NET+Core+Enthusiast;Clean+Architecture+Lover&center=true&width=500&height=45">
 </p>
 
+<div align="center">
+    <img src="img/cute-cat-typing.gif" width="30%">
+</div>
+
 ---
 
 ## 🧑‍💻 About Me  
