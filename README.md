@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoa</h1>
+<h1 align="center">Hi 👋, I'm Luu Duc Hoa</h1>
 <h3 align="center">🚀 .NET Backend Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
